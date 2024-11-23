@@ -1,1 +1,2 @@
 # e-app-reactNative
+/nodeModule
